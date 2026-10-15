@@ -1,0 +1,3 @@
+# Local dev secrets (NOT committed). Copy to .dev.vars and set a real value.
+# The flag lives ONLY in this secret / D1 row 582 at runtime — never in the repo.
+FLAG=SDC{local_dev_replace_me}
