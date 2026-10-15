@@ -7,7 +7,7 @@ compatibility_date = "2025-01-01"
 binding = "DB"
 database_name = "noorstore-db"
 # Replace with your real database id after `npm run db:create`, then `npm run db:migrate`.
-database_id = "local-dev-placeholder"
+database_id = "78be9833-dceb-4107-8769-ab0c46f0af5e"
 
 # The FLAG (SDC{...}) is provided as a secret, never stored in the repo:
 #   wrangler secret put FLAG
